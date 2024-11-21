@@ -28,7 +28,7 @@ If you'd like to find out more about Data Structures and Algorithms (or even con
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stepanpotiienko&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/StepanPotiienko/StepanPotiienko/blob/5c51c43537072216644f275f4a106e3fe0c7a189/github-snake-dark.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/StepanPotiienko/StepanPotiienko/blob/5c51c43537072216644f275f4a106e3fe0c7a189/github-snake.svg)" />
-  <img alt="github-snake" src="[github-snake.svg](https://github.com/StepanPotiienko/StepanPotiienko/blob/5c51c43537072216644f275f4a106e3fe0c7a189/ocean.gif)" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="ocean.gif" />
 </picture>
