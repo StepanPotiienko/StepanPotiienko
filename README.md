@@ -4,8 +4,8 @@
 </div>
 
 
-<b>Hello! I am Stepan Potiienko, and I am honored to welcome you to my Github Page. I focus primaraly on Go, Python, and Web Applications (React, React Native, Next.JS). 
-If you'd like to find out more about Data Structures and Algorithms (or even contribute yourself), I shall lead thou to the corresponding repository, mentioned below. </b>
+<b>Hello, my name is Stepan Potiienko. I am glad to have you on my Github Page. I focus primarily on Python and Web Applications. 
+If you'd like to find out more about Data Structures and Algorithms (or even contribute yourself), please make sure to check out the repository, mentioned below. </b>
 
 
 <table>
